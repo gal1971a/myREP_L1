@@ -1,0 +1,7 @@
+C:\Users\gaarthur\source\repos\Calculator_GAL1\Calculator_GAL1\bin\Debug\Calculator_GAL1.exe.config
+C:\Users\gaarthur\source\repos\Calculator_GAL1\Calculator_GAL1\bin\Debug\Calculator_GAL1.exe
+C:\Users\gaarthur\source\repos\Calculator_GAL1\Calculator_GAL1\bin\Debug\Calculator_GAL1.pdb
+C:\Users\gaarthur\source\repos\Calculator_GAL1\Calculator_GAL1\obj\Debug\Calculator_GAL1.csprojResolveAssemblyReference.cache
+C:\Users\gaarthur\source\repos\Calculator_GAL1\Calculator_GAL1\obj\Debug\Calculator_GAL1.csproj.CoreCompileInputs.cache
+C:\Users\gaarthur\source\repos\Calculator_GAL1\Calculator_GAL1\obj\Debug\Calculator_GAL1.exe
+C:\Users\gaarthur\source\repos\Calculator_GAL1\Calculator_GAL1\obj\Debug\Calculator_GAL1.pdb
