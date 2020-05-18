@@ -20,7 +20,7 @@ namespace Calculator_GAL1
             ProgDELEN summ = new ProgDELEN();
             summ.DEVD(a, b);
 
-            // ---- giTe
+            // ---- giTe222
 
             ProgDELEN2.DEVD(a, b);
 
